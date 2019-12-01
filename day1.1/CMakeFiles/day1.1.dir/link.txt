@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/day1.1.dir/main.cpp.o  -o day1.1 
