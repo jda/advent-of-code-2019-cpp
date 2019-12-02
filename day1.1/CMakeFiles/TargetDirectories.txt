@@ -1,3 +1,0 @@
-/home/jade/Projects/advent-of-code-2019-cpp/day1.1/CMakeFiles/rebuild_cache.dir
-/home/jade/Projects/advent-of-code-2019-cpp/day1.1/CMakeFiles/day1.1.dir
-/home/jade/Projects/advent-of-code-2019-cpp/day1.1/CMakeFiles/edit_cache.dir
